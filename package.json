@@ -1,0 +1,12 @@
+{
+  "name": "gbp-hours-validator",
+  "version": "1.0.0",
+  "description": "Validate Google Business Profile opening hours: overlaps, zero-length, AM/PM ambiguity, missing days. Zero dependencies.",
+  "bin": { "gbp-hours": "bin/gbp-hours.js" },
+  "main": "lib/validate.js",
+  "scripts": { "test": "node --test test/" },
+  "keywords": ["google-business-profile", "opening-hours", "local-seo", "validator"],
+  "author": "Tommy Bomar / Spiel Ventures <tommytbomar@gmail.com>",
+  "license": "MIT",
+  "engines": { "node": ">=18" }
+}

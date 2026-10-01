@@ -1,0 +1,7 @@
+Mon: 9am-5pm
+Tue: 9am-5pm
+Wed: 9am-5pm
+Thu: 9am-5pm
+Fri: 9am-5pm
+Sat: Closed
+Sun: Closed
