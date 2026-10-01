@@ -14,4 +14,4 @@ Input is JSON (`{"mon":"9am-5pm","sat":["8am-12pm","1pm-3pm"],"sun":"closed"}`) 
 
 It validates formatting and logic only. It cannot see what is live on Google and does not log in to anything.
 
-Paid help: see [SUPPORT.md](SUPPORT.md) ($97 session). Want your whole site and profile checked? Email tommytbomar@gmail.com, subject `WANT AUDIT`. License: MIT.
+Paid help: see [SUPPORT.md](SUPPORT.md) ($125 session). Want your whole site and profile checked? Email tommytbomar@gmail.com, subject `WANT AUDIT`. License: MIT.

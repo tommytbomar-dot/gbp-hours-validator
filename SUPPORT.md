@@ -2,7 +2,7 @@
 
 This project is free and MIT-licensed. If you want a human to help you use it, there is an optional paid support tier.
 
-## Support Session — $97 (one-time)
+## Support Session — $125 (one-time)
 
 What you get:
 - Up to 60 minutes of my time, done by email (async) — setup help, fixing your specific input/output, or adapting GBP Hours Validator to your site or workflow
@@ -20,6 +20,6 @@ What it is not:
 2. Say what you need and link your site/repo.
 3. I confirm scope and send payment options (Venmo / PayPal / Zelle). Pay, reply **paid**, and I start.
 
-Prefer a done-for-you mobile website audit instead? Email **WANT AUDIT** + your URL ($97 PDF). See https://tommytbomar-dot.github.io/
+Prefer a done-for-you mobile website audit instead? Email **WANT AUDIT** + your URL ($147 PDF). See https://tommytbomar-dot.github.io/
 
 Spiel Ventures · Tommy Bomar · tommytbomar@gmail.com

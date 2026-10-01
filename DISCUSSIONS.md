@@ -22,7 +22,7 @@ Yes: exit code is 0 for OK, 1 for errors (or warnings with `--strict`), 2 for us
 ## General
 
 ### Is this really free?
-Yes. The code/data is MIT licensed: use it, modify it, and use it for clients. The only paid thing is optional human help — see [SUPPORT.md](SUPPORT.md) ($97 session, email order).
+Yes. The code/data is MIT licensed: use it, modify it, and use it for clients. The only paid thing is optional human help — see [SUPPORT.md](SUPPORT.md) ($125 session, email order).
 
 ### Does it send my data anywhere?
 No. There is no server and no tracking. Nothing you enter is uploaded.
